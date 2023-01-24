@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pratima
 ![Pratima's Banner](https://user-images.githubusercontent.com/33605987/214233382-37bea445-ef1d-4c1f-b229-40ffe942210e.png)
-)
+
 
 <!--
 **Prateema1/Prateema1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
