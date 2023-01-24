@@ -1,4 +1,4 @@
-                                                        ### Hi 👋 I'm Pratima
+ ### Hi 👋 I'm Pratima 
 ![Pratima's Banner](https://user-images.githubusercontent.com/33605987/214233382-37bea445-ef1d-4c1f-b229-40ffe942210e.png)
 
 <h3 align="center">A passionate full stack JS developer from Nepal. Currently, living in India!</h3>
