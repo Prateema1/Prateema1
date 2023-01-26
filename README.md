@@ -8,7 +8,9 @@
 - 💬 Ask me about **react, angular, nodejs, javascript**
 
 - 📫 How to reach me **prateema.adhikari@gmail.com**
-- - 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **GraphQL**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
