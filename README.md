@@ -1,7 +1,7 @@
  ### Hi 👋 I'm Pratima 
 ![Pratima's Banner](https://user-images.githubusercontent.com/33605987/214233382-37bea445-ef1d-4c1f-b229-40ffe942210e.png)
 
-<h3 align="center">A passionate full stack JS developer from Nepal. Currently, living in India!</h3>
+<h3 align="center">A passionate full stack JavaScript developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateema1&label=Profile%20views&color=0e75b6&style=flat" alt="prateema1" /> </p>
 
